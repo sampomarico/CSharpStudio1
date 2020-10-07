@@ -1,0 +1,13 @@
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\bin\Debug\netcoreapp3.1\AreaOfACircleStudio.exe
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\bin\Debug\netcoreapp3.1\AreaOfACircleStudio.deps.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\bin\Debug\netcoreapp3.1\AreaOfACircleStudio.runtimeconfig.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\bin\Debug\netcoreapp3.1\AreaOfACircleStudio.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\bin\Debug\netcoreapp3.1\AreaOfACircleStudio.dll
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\bin\Debug\netcoreapp3.1\AreaOfACircleStudio.pdb
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.AssemblyInfo.cs
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.dll
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.pdb
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\StudioOne\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.genruntimeconfig.cache
